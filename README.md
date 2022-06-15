@@ -1,5 +1,3 @@
-This project is supported by Cult of Coders
-=======
 
 Purpose
 =======
