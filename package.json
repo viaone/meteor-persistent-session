@@ -1,0 +1,23 @@
+{
+  "name": "meteor-persistent-session",
+  "version": "1.0.0",
+  "description": "Persistent session",
+  "main": "package.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viaone/meteor-persistent-session.git"
+  },
+  "author": "Kasey Drexler (viaone)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viaone/meteor-persistent-session/issues"
+  },
+  "homepage": "https://github.com/viaone/meteor-persistent-session#readme"
+}
